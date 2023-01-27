@@ -1,0 +1,27 @@
+Case study discussion:
+E-banking services ->
+A client who looking to expand its e-banking services and they have decided to use Jira as a platform to manage the development and 
+implementation of entire software.
+Create a work flow structure for online banking system using jira that contain below steps:
+1.create an epic->Develop an online banking system(5 epic)
+1.Account Managment
+2.Mobile Payments
+3.Security
+4.Cash Managment 
+5.Customer Services
+
+2.create user stories:For each epic,create user stories related that epic
+3.Create a component:
+A component is part of jira project.its specific feature or functionality or Team responsible who works on specific are of project.
+4.Create a release:A release represent a specific version of the app withing a system.
+ex:initial Release,Release 1.1
+5.Setting up of workflow=>ToDO->In Progress->Closed
+6.Assign issue and task:Assign a user stories and task to team member.
+7.Integrate Jira with tools with other tools:Confluence ,Trello ,Asana etc.
+
+
+
+
+
+
+
